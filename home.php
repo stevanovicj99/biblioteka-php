@@ -15,7 +15,7 @@ if (empty($_SESSION['id'])) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Biblioteka</title>
-    <link rel="stylesheet" href="css/stylehome.css">
+    <link rel="stylesheet" href="css/styleall.css">
 
 </head>
 
